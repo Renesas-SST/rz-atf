@@ -1,5 +1,6 @@
 #
-# Copyright (c) 2020, Renesas Electronics Corporation. All rights reserved.
+# Copyright (c) 2024-2025, Arm Limited and Contributors. All rights reserved.
+# Copyright (c) 2020-2025, Renesas Electronics Corporation. All rights reserved.
 #
 # SPDX-License-Identifier: BSD-3-Clause
 #
