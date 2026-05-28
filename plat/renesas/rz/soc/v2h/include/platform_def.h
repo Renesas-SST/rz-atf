@@ -70,7 +70,7 @@
  ******************************************************************************/
 #ifndef SPD_none
 #define BL32_BASE				UL(0x44100000)
-#define BL32_LIMIT				(BL32_BASE + 0x100000)
+#define BL32_LIMIT				(BL32_BASE + 0x03D00000)	/* 61 MB, matches rzv2h_conf.mk CFG_TZDRAM_SIZE */
 #endif
 
 /*******************************************************************************
